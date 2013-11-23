@@ -35,3 +35,4 @@ Rendering form the controller
 		return View::make('hello');
 	}
 
+
